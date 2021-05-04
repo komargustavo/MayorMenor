@@ -1,0 +1,32 @@
+.contenedor {
+  background-color: coral;
+  width: 60%;
+  margin: 0 auto;
+}
+h2,
+p,
+a {
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+}
+.alinear {
+  display: flex;
+  justify-content: center;
+}
+.caja {
+  background-color: blue;
+  width: 4rem;
+  height: 4rem;
+  margin: 1rem;
+}
+.boton {
+  margin: 0 auto;
+  text-align: center;
+  background-color: blue;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 1rem;
+  border-radius: solid #000;
+}
+
